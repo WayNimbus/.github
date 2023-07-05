@@ -1,5 +1,5 @@
 ## What is this organization about?
-This organization will mostly house the compositor, widgets and some related libraries, modules and wrappers mostly written in Nim and hence the name. I aim to learn about wayland protocols and wayland compositors.
+This organization will mostly house the compositor, widgets and some related libraries, modules and wrappers mostly written in Nim and hence the name. We aim to learn about wayland protocols and wayland compositors.
 
 ## Goals
 * To be easy to use and configure.
