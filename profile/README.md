@@ -7,7 +7,7 @@ This organization will mostly house the compositor, widgets and some related lib
 * To be extensible in the form of widgets, applets or extensions.
 
 ## Configuration(TBD)
-I aim to have it configurable in one of these options:
+Our aim is to have it configurable in one of these options:
 * YAML
 * TOML
 * XML
